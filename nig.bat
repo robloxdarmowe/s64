@@ -1,0 +1,1 @@
+powershell -c (New-Object Media.SoundPlayer "nigus.wav").PlaySync();
